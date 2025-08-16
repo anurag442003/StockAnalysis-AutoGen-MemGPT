@@ -4,24 +4,24 @@ A multi-agent stock analysis system powered by MemGPT and AutoGen. This project 
 
 ## 🧠 Features
 
-Fetches monthly time-series data for major indices and top stocks.
+* Fetches monthly time-series data for major indices and top stocks.
 
-Simulates two contrasting agents:
+* Simulates two contrasting agents:
 
-Optimistic Analyst: Highlights growth potential.
+* Optimistic Analyst: Highlights growth potential.
 
-Pessimistic Analyst: Points out possible risks.
+* Pessimistic Analyst: Points out possible risks.
 
-AutoGen-based group chat managed by MemGPT agents.
+* AutoGen-based group chat managed by MemGPT agents.
 
-Human-like analysis and recommendation through LLM-driven dialogue.
+* Human-like analysis and recommendation through LLM-driven dialogue.
 
 ## ⚙️ Tech Stack
 
-MemGPT (for contextual memory agents)
+* MemGPT (for contextual memory agents)
 
-AutoGen (for multi-agent orchestration)
+* AutoGen (for multi-agent orchestration)
 
-Twelve Data API (for stock data)
+* Twelve Data API (for stock data)
 
-Python 3.8+
+* Python 3.8+
